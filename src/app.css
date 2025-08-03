@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import 'tailwindcss';
+
+@theme {
+    --font-serif: 'Noto Serif', serif;
+    --font-sans: 'Noto Sans', sans-serif;
+    --font-mono: 'Fira Mono', monospace;
+}
+
+@layer base {
+
+    ul,
+    ol {
+        list-style: revert;
+        margin-bottom: 1rem;
+        margin-top: 0;
+        padding-left: 2rem;
+    }
+
+    p {
+        margin-bottom: 1rem;
+    }
+}

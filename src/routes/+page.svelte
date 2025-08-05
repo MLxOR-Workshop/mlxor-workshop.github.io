@@ -26,7 +26,7 @@ Uncertainty-Aware Decision-Making</title>
 			</div>
 			<div class="inline-block text-4xl"><strong>ML×OR Workshop:</strong><br>Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making</div>
 			<div class="mt-8 flex items-center space-x-2">
-				<div class="font-mono text-sm text-gray-500">Sponsored by</div>
+				<div class="font-mono text-sm text-gray-500">Supported by</div>
 				<a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer">
 					INFORMS Applied Probability Society
 				</a>

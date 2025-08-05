@@ -2,12 +2,16 @@ Submissions are limited to at most 4 pages of main body, in the NeurIPS conferen
 
 Submissions are **non-anonymous** and **non-archival**. We welcome submissions based on preliminary working progress, work under review, or work that has already been published in prior venues. In particular, papers based on work under review or prior publication are allowed and encouraged.
 
-For papers based on preliminary working progress, submission to the workshop will not preclude future journal or conference publication. Moreover, these papers will have the option to be considered for fast-track submission of the full-length version to Stochastic Systems, the flagship journal of INFORMS Applied Probability Society.
+For papers based on preliminary working progress, submission to the workshop will not preclude future journal or conference publication. Moreover, these papers will have the option to be considered for fast-track submission of the full-length version to *Stochastic Systems*, the flagship journal of INFORMS Applied Probability Society.
 
-All accepted papers will be presented in an elaborate poster session at the workshop. In addition, several selected papers will be chosen as "spotlight" for oral presentations. 
+All accepted papers will be presented in an elaborate poster session at the workshop. In addition, several selected papers will be chosen as “spotlight” for oral presentations.
 
 Submissions should be made via OpenReview:<br> 
 [<u>https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MLxOR</u>](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MLxOR)
+
+
+*Note*: Please be aware of OpenReview's moderation policy. New profiles created without an institutional email will go through a moderation process that can take up to two weeks. On the other hand, new profiles created with an institutional email will be activated automatically.
+
 
 **Important Dates:**
 
@@ -16,6 +20,26 @@ Submissions should be made via OpenReview:<br>
 <!-- * Camera Ready Deadline: July 7, 2025 (Anywhere on Earth) -->
 * Workshop Date: December 6 or 7, 2025
 
+
+
+**Theme and Submission Topics**:
+
+Much of traditional decision-making science is grounded in the mathematical formulations and analyses of structured systems to recommend decisions that are optimized, robust, and uncertainty-aware. This scientific approach, rooted in the field of OR, has evolved through decades of advancements in stochastic modeling, computational simulation, and optimization. A key strength of the OR approach is its model-based orientation, which facilitates methodological rigor, explicit uncertainty encoding, and interpretability, making it a natural engineering approach for reliable decision-making. On the other hand, recent advances in the AI/ML space have eschewed the model-based paradigm and increasingly embraced, to great success, model-free algorithmic design frameworks. In essence, the model-based rigor and assumptions of traditional OR are not yet designed to take full advantage of massive data and rapid computational advances in AI/ML. 
+
+This workshop aspires to present recent developments, discuss challenges, and publicize emerging research opportunities to accelerate ML-OR synergization. By integrating ML into established OR methodologies, we have the opportunity to produce more data-centric and adaptive solutions for complex decision-making tasks that could propel, in a much faster-paced manner, the frontier of “optimality” across many relevant applications. Concomitantly, the goal is also to explore how model-based principled OR approaches can help alleviate issues revolving around “black box” systems, and provide paths to enhance interpretability, trust, and performance analysis.  
+
+We welcome all submissions in the interface between ML and OR, broadly defined, including contributions that are methodological or theoretical, application-oriented, and conceptually focused. The following four sub-topics will be of high interest to the workshop, but other topics broadly in the ML-OR intersection are greatly welcome as well.
+
+*Embedding OR modeling insights into ML*: The rich problem domains conventionally tackled by OR, such as queueing control, supply chain and revenue management, present challenges from high dimensionality, variability and stability that are often addressed via structural models and domain-specific knowledge. Recent advances have shown practical benefits in OR-embedded ML techniques, including differentiable simulators and domain-informed policy parameterizations. To this end, imminent questions include the design of generic frameworks to integrate operational domain knowledge into ML algorithms, the balance between model-based insights and data-driven flexibility, validation and stress-testing of hybrid OR+ML policies, and the use of digital twins for operational data that combine AI and OR simulation.
+
+*Uncertainty mitigation at the interface of data, model, and decision*: An important challenge in converting data into reliable decisions lies in the dissection and mitigation of errors, not only arising from data prediction, but also their interactions with the system and propagation into operational decisions. These issues can be complicated by computational and modeling limitations for complex models, optimistic bias, stochastic behaviors in decision optimization, and distribution shifts. Key questions to explore include uncertainty quantification techniques that are mindful of model computation overhead, approaches to assess performance of prescriptive decisions, and hedging of downside risks from noises and shifts via robustification or goal-driven regularization. 
+
+*Sequential decision-making and online learning from an OR perspective*: Many modern data-driven operations are intrinsically sequential, namely, the system state evolves after every action, fresh information arrives online, and decisions adapt in real time. Despite sustained efforts on theoretical research, key questions remain in achieving balance among statistical efficiency, robustness, and practical implementability, especially when facing non-stationarity, risk-sensitive, and multi-objective criteria that appear in many operational settings. These challenges present opportunities to leverage the analytic arsenal of OR, including stochastic processes, convex and non-convex optimization, optimal control, and distributionally robust techniques, that can play pivotal roles in tightening theoretical bounds, guiding exploration, and yielding computationally tractable policies.
+
+*Generative AI for decision-making*: Generative AI has recently emerged as a transformative technology that, based on sampling and statistical modeling power, offers enhanced decision-making capabilities across multiple domains. At the same time, some of the cores in generative modeling are rooted in Monte Carlo simulation methodology and stochastic analysis, which have a rich literature in OR. Key questions to explore include the efficient utilization of generative models to capture uncertainties in complex operational problems, how to build generative frameworks to recognize guarantees on robustness or safety needed for decision-making, and how to tackle these issues via the vast theoretical and computational literature on stochastic analysis, including diffusion and flow-based models.
+
+
+**Contact Information**
 
 If you have any questions or would like additional information, please feel free to reach out to us via: [<u>neurips.mlxor.workshop@gmail.com</u>](mailto:neurips.mlxor.workshop@gmail.com)
 

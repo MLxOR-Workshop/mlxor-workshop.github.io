@@ -177,6 +177,12 @@ Uncertainty-Aware Decision-Making</title>
 					image="./imgs/pglynn.jpg"
 				></Person>
 				<Person
+					name="Eric Moulines"
+					affiliation="Ecole Polytechnique"
+					link="https://www.polytechnique.edu/en/directory/moulines-eric"
+					image="https://simons.berkeley.edu/sites/default/files/styles/post_card_xxl_2x/public/eric-perou_1.jpg?h=6b865382&itok=MKFRFLQ4"
+				></Person>
+				<Person
 					name="Daniel Russo"
 					affiliation="Columbia Universisty"
 					link="https://djrusso.github.io/"
@@ -187,6 +193,12 @@ Uncertainty-Aware Decision-Making</title>
 					affiliation="UT Austin"
 					link="https://sites.google.com/view/sanjay-shakkottai/"
 					image="./imgs/sanjay.jpg"
+				></Person>
+				<Person
+					name="Rayadurgam Srikant"
+					affiliation="UIUC"
+					link="https://sites.google.com/a/illinois.edu/srikant/"
+					image="./imgs/rsrikant.jpg"
 				></Person>
 				<Person
 					name="Masashi Sugiyama"
@@ -268,7 +280,7 @@ Uncertainty-Aware Decision-Making</title>
 					name="Yao Xie"
 					affiliation="Georgia Institute of Technology"
 					link="https://www2.isye.gatech.edu/~yxie77/"
-					image="https://www2.isye.gatech.edu/~yxie77/Yao_Xie.jpg"
+					image="./imgs/yao.jpg"
 				></Person>
 				<Person
 					name="Assaf Zeevi"
@@ -289,7 +301,7 @@ Uncertainty-Aware Decision-Making</title>
 	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="program_committee">Program Committee</h1>
 		<!-- <div class="text-base"> -->
-			To be announced
+			Yeganeh Alimohammadi (Berkeley), Alessandro Arlotto (Duke), Baris Ata (Chicago), Santiago Balseiro (Columbia), Mohsen Bayati (Stanford), Sem Borst (Eindhoven University of Technology), Anton Braverman (Northwestern), Ana Busic (École Normale Supérieure), Vasileios Charisopoulos (Chicago), Minshuo Chen (Northwestern), Xinyun Chen (CUHK Shenzhen), Yi Chen (HKUST), Zaiwei Chen (Purdue), Stephen Chick (INSEAD), Prakash Chakraborty (Penn State), Souvik Dhara (Georgia Tech), Ton Dieker (Columbia), Sebastian Engelke (Univ. of Geneva), Ethan Fang (Duke), Daniel Freund (MIT), Rui Gao (UT Austin), David Gamarnik (MIT), Julia Gaudio (Northwestern), Soumyadip Ghosh (IBM), Peter Glynn (Stanford), Mert Gurbuzbalaban (Rutgers), Varun Gupta (Univ. of Utah), Bernd Heidergott (Vrije Universiteit Amsterdam), Xuedong He (CUHK), Harsha Honnappa (Purdue), Yue Hu (Stanford), Sajad Khodadadian (Virginia Tech), Yanwei Jia (CUHK), Jiashuo Jiang (HKUST), Gauri Joshi (CMU), Ramesh Johari (Stanford), Andrew Li (CMU), Michael Lingzhi Li (Harvard), Shuangning Li (Chicago), Yueyang Liu (Rice), Yiping Lu (Northwestern), Thodoris Lykouris (MIT), Debankur Mukherjee (Georgia Tech), Karthyek Murthy (USC), Raghu Pasupathy (Purdue), Marek Petrik (University of New Hampshire), Chara Podimata (MIT), Pengyu Qian (Boston Univ.), Chang-Han Rhee (Northwestern), Luc Rey-Bellet (UMass), Ilya Ryzhov (Maryland), Sujay Sanghavi (UT Austin), Sanjay Shakkottai (UT Austin), Nian Si (HKUST), Raghav Singal (Dartmouth), Ziv Scully (Cornell), Fiona Sloothaak (Eindhoven University of Technology), Emina Soljanin (Rutgers), Vasilis Syrgkanis (Stanford), Mark Squillante (IBM), Vijay Subramanian (Michigan), Wenpin Tang (Columbia), Bruno Tuffin (INRIA), Stefan Wager (Stanford), Kaizheng Wang (Columbia), Weina Wang (CMU), Zhaoran Wang (Northwestern), Neil Walton (Durham), Ermin Wei (Northwestern), Chen Yan (Michigan), Zixian Yang (Michigan), Lei Ying (Michigan), David Yao (Columbia), Renyuan Xu (NYU), Sophie Yu (UPenn), Zeyu Zheng (Berkeley), Xunyu Zhou (Columbia), Zhengyuan Zhou (NYU), Bert Zwart (CWI)
 		<!-- </div> -->
 	</Block>
 

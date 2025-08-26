@@ -208,7 +208,7 @@ Uncertainty-Aware Decision-Making</title>
 				></Person>
 				<Person
 					name="Masashi Sugiyama"
-					affiliation="University of Tokyo"
+					affiliation="University of Tokyo, RIKEN"
 					link="https://www.ms.k.u-tokyo.ac.jp/sugi/profile.html"
 					image="./imgs/masashi.jpg"
 				></Person>

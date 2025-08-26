@@ -168,7 +168,7 @@ Uncertainty-Aware Decision-Making</title>
 					name="Peter Frazier"
 					affiliation="Cornell University"
 					link="https://people.orie.cornell.edu/pfrazier/"
-					image="https://people.orie.cornell.edu/pfrazier/img/12-Simpson-Cornell4380-crop.jpg"
+					image="./imgs/pfrazier.jpg"
 				></Person>
 				<Person
 					name="Peter Glynn"

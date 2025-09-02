@@ -13,7 +13,7 @@ Submissions should be made via OpenReview:<br>
 *Note*: Please be aware of OpenReview's moderation policy. New profiles created without an institutional email will go through a moderation process that can take up to two weeks. On the other hand, new profiles created with an institutional email will be activated automatically.
 
 
-**Additional clarifications about submission policy:**
+**Additional Clarifications about Submission Policy:**
 
 * Supplemental materials (of reasonable length) may also be included, but they are optional and reviewers are not required to review these materials.
 * When using the NeurIPS conference paper template, please adopt the single-blind format since submissions to our workshop are non-anonymous.

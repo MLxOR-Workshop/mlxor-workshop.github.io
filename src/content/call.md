@@ -13,6 +13,14 @@ Submissions should be made via OpenReview:<br>
 *Note*: Please be aware of OpenReview's moderation policy. New profiles created without an institutional email will go through a moderation process that can take up to two weeks. On the other hand, new profiles created with an institutional email will be activated automatically.
 
 
+**Additional clarifications about submission policy:**
+
+* Supplemental materials (of reasonable length) may also be included, but they are optional and reviewers are not required to review these materials.
+* When using the NeurIPS conference paper template, please adopt the single-blind format since submissions to our workshop are non-anonymous.
+* You may drop the NeurIPS Paper Checklist expected for main conference submissions. This checklist is n ot required for our workshop’s submissions.
+* Dual submissions are allowed for our workshop. That is, we do not forbid making a similar or identical submission to other NeurIPS workshops. However, please keep in mind that these workshops may overlap in time that disallows you from making presentations simultaneously.
+
+
 **Important Dates:**
 
 * Submission Deadline: September 5, 2025 (Anywhere on Earth)

@@ -31,9 +31,9 @@ Uncertainty-Aware Decision-Making</title>
 					INFORMS Applied Probability Society
 				</a>
 			</div>
-			<div class="text-md mt-8 text-gray-800">December 6 or 7, 2025</div>
-			<div class="mt-2 text-sm text-gray-500">San Diego Convention Center</div>
-			<div class="text-sm text-gray-500">San Diego, CA, USA</div>
+			<div class="text-md mt-8 text-gray-800">December 6, 2025</div>
+			<div class="mt-2 text-sm text-gray-500">Upper Level Room 26AB</div>
+			<div class="text-sm text-gray-500">San Diego Convention Center</div>
 		</div>
 	</div>
 	<!-- <div class="w-full border-b border-gray-500"></div> -->

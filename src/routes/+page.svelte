@@ -69,7 +69,7 @@ Uncertainty-Aware Decision-Making</title>
 	<Block>
 		<h1 class="mb-6 text-2xl font-bold" id="schedule">Tentative Schedule</h1>
 		<div class="mb-6 text-sm">
-			<p><strong>Location:</strong> TBD</p>
+			<p><strong>Location:</strong> Upper Level Room 26AB, San Diego Convention Center</p>
 		</div>
 		<div>
 			<table class="w-full border-collapse border border-gray-300 text-sm">

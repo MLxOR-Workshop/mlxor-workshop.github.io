@@ -67,7 +67,7 @@ Uncertainty-Aware Decision-Making</title>
 		<Intro />
 	</Block>
 	<Block>
-		<h1 class="mb-6 text-2xl font-bold" id="schedule">Tentative Schedule</h1>
+		<h1 class="mb-6 text-2xl font-bold" id="schedule">Schedule</h1>
 		<div class="mb-6 text-sm">
 			<p><strong>Location:</strong> Upper Level Room 26AB, San Diego Convention Center</p>
 		</div>
@@ -142,7 +142,7 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:10 - 16:55</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Panel on Practical Challenges in ML×OR: Dan Russo, Sanjay Shakkottai, Dawn Woodard, Kuang Xu</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Panel on Practical Challenges in ML×OR: Daniel Russo, Sanjay Shakkottai, Dawn Woodard, Kuang Xu</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:55 - 17:00</td>
@@ -156,7 +156,7 @@ Uncertainty-Aware Decision-Making</title>
 		</div>
 	</Block>
 	<Block padding="pb-4">
-		<h1 class="mb-4 text-2xl font-bold" id="speakers">Confirmed Speakers & Panelists (So Far)</h1>
+		<h1 class="mb-4 text-2xl font-bold" id="speakers">Speakers & Panelists</h1>
 	</Block>
 	<!-- <Block> -->
 	<Block size="max-w-4xl">

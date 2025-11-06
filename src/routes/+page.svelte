@@ -81,73 +81,71 @@ Uncertainty-Aware Decision-Making</title>
 				</thead>
 				<tbody>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 - 8:50</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:00 - 8:20</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Morning Coffee</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:50 - 9:00</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:20 - 8:30</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Introduction and Opening Remark</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 - 9:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: R. Srikant</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 1</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Eric Moulines</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 10:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 2</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 09:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break (and Poster Setup)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:00 - 10:25</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">09:45 - 10:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 1</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:25 - 11:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2"
-							>Panel Discussion 1</td
-						>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 - 11:15</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Panel on the theory for ML×OR: Peter Glynn, Masashi Sugiyama, Stefan Wager, Renyun Xu, Lei Ying</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:10 - 12:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"
-							>Poster Session 1</td
-						>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00 - 13:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"
-							>Lunch Break</td
-						>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:00 - 13:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 3</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:30 - 14:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 4</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00 - 14:25</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:25 - 15:05</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:15 - 12:25</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Spotlight Presentations</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:05 - 15:55</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:25 - 12:55</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Mengdi Wang</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:55 - 13:25</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Lunch Break (and Poster Setup)</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:25 - 14:10</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 2</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:55 - 16:25</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 5</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:10 - 14:40</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Peter Frazier</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:25 - 17:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussion 2</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:40 - 15:10</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Phil Kaminsky</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">17:10 - 17:15</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:10 - 15:25</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break (and Poster Setup)</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:25 - 16:10</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 3</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:10 - 16:55</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Panel on Practical Challenges in ML×OR: Dan Russo, Sanjay Shakkottai, Dawn Woodard, Kuang Xu</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:55 - 17:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Closing Remark</td>
 					</tr>
 				</tbody>

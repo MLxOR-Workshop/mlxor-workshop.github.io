@@ -106,7 +106,7 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 - 11:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Panel on the theory for ML×OR: Peter Glynn, Masashi Sugiyama, Stefan Wager, Renyun Xu, Lei Ying</td>
+						<td class="w-full border border-gray-300 px-4 py-2">MLxOR Theory-Geared Panel: Peter Glynn, Masashi Sugiyama, Stefan Wager, Renyuan Xu</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:15 - 12:25</td>
@@ -142,7 +142,7 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:10 - 16:55</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Panel on Practical Challenges in ML×OR: Daniel Russo, Sanjay Shakkottai, Dawn Woodard, Kuang Xu</td>
+						<td class="w-full border border-gray-300 px-4 py-2">ML×OR Industry-Geared Panel: Daniel Russo, Sanjay Shakkottai, Dawn Woodard, Kuang Xu</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:55 - 17:00</td>
@@ -240,12 +240,12 @@ Uncertainty-Aware Decision-Making</title>
 					link="https://renyuanxu.github.io/"
 					image="./imgs/renyuan.jpg"
 				></Person>
-				<Person
+<!-- 				<Person
 					name="Lei Ying"
 					affiliation="University of Michigan"
 					link="https://leiying.engin.umich.edu/"
 					image="./imgs/ying.jpg"
-				></Person>
+				></Person> -->
 			</div>
 		</div>
 	</Block>

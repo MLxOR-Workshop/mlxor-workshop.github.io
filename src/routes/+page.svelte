@@ -94,7 +94,7 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Eric Moulines</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Spotlight Presentations</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 09:45</td>
@@ -106,7 +106,7 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 - 11:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2">MLxOR Theory-Geared Panel: Peter Glynn, Masashi Sugiyama, Stefan Wager, Renyuan Xu</td>
+						<td class="w-full border border-gray-300 px-4 py-2">MLxOR Theory-Geared Panel: Peter Glynn, Daniel Russo, Masashi Sugiyama, Renyuan Xu</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:15 - 12:25</td>
@@ -142,7 +142,7 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:10 - 16:55</td>
-						<td class="w-full border border-gray-300 px-4 py-2">ML×OR Industry-Geared Panel: Daniel Russo, Sanjay Shakkottai, Dawn Woodard, Kuang Xu</td>
+						<td class="w-full border border-gray-300 px-4 py-2">ML×OR Industry-Geared Panel: Hongseok Namkoong, Sanjay Shakkottai, Dawn Woodard, Kuang Xu</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:55 - 17:00</td>
@@ -158,8 +158,8 @@ Uncertainty-Aware Decision-Making</title>
 	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="speakers">Speakers & Panelists</h1>
 	</Block>
-	<!-- <Block> -->
-	<Block size="max-w-4xl">
+	<Block>
+	<!-- <Block size="max-w-4xl"> -->
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 				<Person
@@ -175,17 +175,23 @@ Uncertainty-Aware Decision-Making</title>
 					image="./imgs/pglynn.jpg"
 				></Person>
 				<Person
+					name="Hongseok Namkoong"
+					affiliation="Columbia Universisty"
+					link="https://hsnamkoong.github.io/"
+					image="./imgs/hong.jpg"
+				></Person>
+				<Person
 					name="Phil Kaminsky"
 					affiliation="Amazon"
 					link="https://kaminsky.ieor.berkeley.edu/"
 					image="./imgs/phil.jpg"
 				></Person>
-				<Person
+				<!-- <Person
 					name="Eric Moulines"
 					affiliation="Ecole Polytechnique"
 					link="https://www.polytechnique.edu/en/directory/moulines-eric"
 					image="https://simons.berkeley.edu/sites/default/files/styles/post_card_xxl_2x/public/eric-perou_1.jpg?h=6b865382&itok=MKFRFLQ4"
-				></Person>
+				></Person> -->
 				<Person
 					name="Daniel Russo"
 					affiliation="Columbia Universisty"
@@ -210,12 +216,12 @@ Uncertainty-Aware Decision-Making</title>
 					link="https://www.ms.k.u-tokyo.ac.jp/sugi/profile.html"
 					image="./imgs/masashi.jpg"
 				></Person>
-				<Person
+				<!-- <Person
 					name="Stefan Wager"
 					affiliation="Stanford University"
 					link="https://www.gsb.stanford.edu/faculty-research/faculty/stefan-wager"
 					image="./imgs/stefan.jpg"
-				></Person>
+				></Person> -->
 				<Person
 					name="Mengdi Wang"
 					affiliation="Princeton University"

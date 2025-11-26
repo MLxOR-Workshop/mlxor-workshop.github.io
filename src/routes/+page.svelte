@@ -7,6 +7,7 @@
 	import NavLink from '$lib/components/NavLink.svelte';
 	import Call from '../content/call.md';
 	import Intro from '../content/intro.md';
+	import PCmembers from '../content/pc-members.md';
 	import PaperList from '$lib/components/PaperList.svelte';
 </script>
 
@@ -90,11 +91,17 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 - 9:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: R. Srikant</td>
+						<!-- <td class="w-full border border-gray-300 px-4 py-2">Invited Talk: R. Srikant</td> -->
+						 <td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Can Large Language Models Make Decisions? Mathematical Formulations and Open Problems
+							<br/>Speaker: R. Srikant (UIUC)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Spotlight Presentations</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Spotlight Presentations
+							<br/>1. Ask or Play: Scalable Oversight through Markov Potential Games
+							<br/>2. Neural Decision Rule for Constrained Contextual Stochastic Optimization
+							<br/>3. Accelerating Diffusion via Compressed Sensing: Applications to Imaging and Finance
+						</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 09:45</td>
@@ -106,15 +113,26 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 - 11:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2">MLxOR Theory-Geared Panel: Peter Glynn, Daniel Russo, Masashi Sugiyama, Renyuan Xu</td>
+						<td class="w-full border border-gray-300 px-4 py-2">MLxOR Theory-Geared Panel: Peter Glynn (Stanford), Daniel Russo (Columbia), Masashi Sugiyama (RIKEN), Renyuan Xu (NYU)
+							<br/>Moderator: Assaf Zeevi (Columbia)
+						</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:15 - 12:25</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Spotlight Presentations</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Spotlight Presentations
+							<br/>1. Achieving O(1/N) Optimality Gap in Weakly-Coupled Markov Decision Processes through Gaussian Approximation
+							<br/>2. Fairness Is More Than Algorithms: Racial Disparities in Time-to-Recidivism
+							<br/>3. Human-Centric Perishable Inventory Management with AI-Assistance
+							<br/>4. Ensuring Fairness in Priority-Based Admissions with Uncertain Scores
+							<br/>5. Scalable First-order Method for Certifying Optimal k-Sparse GLMs
+							<br/>6. Model-Free Assessment of Simulator Fidelity via Quantile Curves
+							<br/>7. Autoregressive Learning under Joint KL Analysis: Horizon-Free Approximation and Computational-Statistical Tradeoffs
+						</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:25 - 12:55</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Mengdi Wang</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: The AI-XR Scientist that Sees and Works with Humans
+							<br/>Speaker: Mengdi Wang (Princeton)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:55 - 13:25</td>
@@ -126,11 +144,13 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:10 - 14:40</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Peter Frazier</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Learning What to Optimize: ML Methods for Accessible Operations Research
+							<br/>Speaker: Peter Frazier (Cornell)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:40 - 15:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Phil Kaminsky</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: OR and ML in Amazon’s Middle Mile Freight Capacity Marketplace
+							<br/>Speaker: Phil Kaminsky (Amazon)</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:10 - 15:25</td>
@@ -142,7 +162,9 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:10 - 16:55</td>
-						<td class="w-full border border-gray-300 px-4 py-2">ML×OR Industry-Geared Panel: Hongseok Namkoong, Sanjay Shakkottai, Dawn Woodard, Kuang Xu</td>
+						<td class="w-full border border-gray-300 px-4 py-2">ML×OR Industry-Geared Panel: Hongseok Namkoong (Columbia), Sanjay Shakkottai (UT Austin), Dawn Woodard (LinkedIn), Kuang Xu (Stanford)
+						<br/>Moderator: Jose Blanchet (Stanford)
+						</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:55 - 17:00</td>
@@ -316,9 +338,9 @@ Uncertainty-Aware Decision-Making</title>
 
 	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="program_committee">Program Committee</h1>
-		<!-- <div class="text-base"> -->
-			Yeganeh Alimohammadi (USC), Alessandro Arlotto (Duke), Baris Ata (Chicago), Santiago Balseiro (Columbia), Mohsen Bayati (Stanford), Amine Bennouna (Northwestern), Sem Borst (Eindhoven Univ. of Technology), Anton Braverman (Northwestern), Ana Busic (École Normale Supérieure), Prakash Chakraborty (Penn State), Vasileios Charisopoulos (Chicago), Minshuo Chen (Northwestern), Xinyun Chen (CUHK Shenzhen), Yi Chen (HKUST), Zaiwei Chen (Purdue), Stephen Chick (INSEAD), Souvik Dhara (Georgia Tech), Ton Dieker (Columbia), Sebastian Engelke (Univ. of Geneva), Lin Fan (Northwestern) Ethan Fang (Duke), Yiding Feng (HKUST), Yifan Feng (NUS), Ayoub Foussoul (Chicago), Daniel Freund (MIT), David Gamarnik (MIT), Rui Gao (UT Austin), Xuefeng Gao (CUHK), Julia Gaudio (Northwestern), Soumyadip Ghosh (IBM), Peter Glynn (Stanford), Varun Gupta (Univ. of Utah), Mert Gurbuzbalaban (Rutgers), Bernd Heidergott (Vrije Universiteit Amsterdam), Xuedong He (CUHK), Jeff Hong (Univ. of Minnesota), Harsha Honnappa (Purdue), Yue Hu (Stanford), Dongyan Huo (HKUST), Sajad Khodadadian (Virginia Tech), Yanwei Jia (CUHK), Jiashuo Jiang (HKUST), Ramesh Johari (Stanford), Gauri Joshi (CMU), Marc Lelarge (INRIA), Andrew Li (CMU), Michael Lingzhi Li (Harvard), Shuangning Li (Chicago), Sheng Liu (Toronto), Yueyang Liu (Rice), Yiping Lu (Northwestern), Thodoris Lykouris (MIT), Mehrdad Moharrami (Univ. of Iowa), Debankur Mukherjee (Georgia Tech), Karthyek Murthy (USC), Raghu Pasupathy (Purdue), Marek Petrik (Univ. of New Hampshire), Chara Podimata (MIT), Meng Qi (Cornell), Pengyu Qian (Boston Univ.), Chao Qin (Stanford), Yanlin Qu (Columbia), Chang-Han Rhee (Northwestern), Luc Rey-Bellet (UMass), Ilya Ryzhov (Maryland), Sujay Sanghavi (UT Austin), Ziv Scully (Cornell), Devavrat Shah (MIT), Sanjay Shakkottai (UT Austin), Pengyi Shi (Purdue), Nian Si (HKUST), Raghav Singal (Dartmouth), Fiona Sloothaak (Eindhoven Univ. of Technology), Emina Soljanin (Rutgers), Rayadurgam Srikant (UIUC), Mark Squillante (IBM), Vijay Subramanian (Michigan), Vasilis Syrgkanis (Stanford), Wenpin Tang (Columbia), Bruno Tuffin (INRIA), Stefan Wager (Stanford), Neil Walton (Durham), Kaizheng Wang (Columbia), Weina Wang (CMU), Zhaoran Wang (Northwestern), Ermin Wei (Northwestern), Ruoyu Wu (Iowa State), Jiaming Xu (Duke), Renyuan Xu (NYU), Yunbei Xu (NUS), Chen Yan (Michigan), Zixian Yang (Michigan), David Yao (Columbia),  Lei Ying (Michigan), Sophie Yu (UPenn), Kelly Zhang (Imperial), Zeyu Zheng (Berkeley), Angela Zhou (USC) Xunyu Zhou (Columbia), Zhengyuan Zhou (NYU), Bert Zwart (CWI)
-		<!-- </div> -->
+		<div class="text-base">
+			<PCmembers />
+		</div>
 	</Block>
 
 	<!-- <Block padding="pb-4"> -->

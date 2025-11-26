@@ -113,7 +113,7 @@ Uncertainty-Aware Decision-Making</title>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 - 11:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2">MLxOR Theory-Geared Panel: Peter Glynn (Stanford), Daniel Russo (Columbia), Masashi Sugiyama (RIKEN), Renyuan Xu (NYU)
+						<td class="w-full border border-gray-300 px-4 py-2">MLxOR Theory-Geared Panel: Peter Glynn (Stanford), Daniel Russo (Columbia), Masashi Sugiyama (U.of Tokyo, RIKEN), Renyuan Xu (NYU)
 							<br/>Moderator: Assaf Zeevi (Columbia)
 						</td>
 					</tr>

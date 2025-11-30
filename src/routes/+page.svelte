@@ -45,17 +45,17 @@ Uncertainty-Aware Decision-Making</title>
 			<div
 				class="my-2 flex flex-row flex-wrap items-center justify-start font-mono text-sm md:text-base"
 			>
-				<NavLink href="#schedule">SCHEDULE</NavLink>
+				<NavLink href="#schedule">Schedule</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
-				<NavLink href="#speakers">SPEAKERS</NavLink>
+				<NavLink href="#speakers">Speakers</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
-				<NavLink href="#organizers">ORGANIZERS</NavLink>
+				<NavLink href="#organizers">Organizers & PC Members</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
-				<NavLink href="#program_committee">PROGRAM COMMITTEE</NavLink>
+				<!-- <NavLink href="#program_committee">PC Members</NavLink>
+				<div class="mx-2 text-gray-400">/</div> -->
+				<NavLink href="#call">Call for Papers</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
-				<NavLink href="#call">CALL FOR PAPERS</NavLink>
-				<!-- <div class="mx-2 text-gray-400">/</div>
-				<NavLink href="#papers">ACCEPTED PAPERS</NavLink> -->
+				<NavLink href="#papers">Accepted Papers</NavLink>
 			</div>
 		</div>
 	</div>
@@ -337,7 +337,7 @@ Uncertainty-Aware Decision-Making</title>
 	</Block>
 
 	<Block padding="pb-4">
-		<h1 class="mb-4 text-2xl font-bold" id="program_committee">Program Committee</h1>
+		<h1 class="mb-4 text-2xl font-bold" id="program_committee">Program Committee Members</h1>
 		<div class="text-base">
 			<PCmembers />
 		</div>
@@ -350,10 +350,10 @@ Uncertainty-Aware Decision-Making</title>
 			<Call />
 		</div>
 	</Block>
-	<!-- <Block>
+	<Block>
 		<h1 class="mb-4 text-2xl font-bold" id="papers">Accepted Papers</h1>
 		<PaperList />
-	</Block> -->
+	</Block>
 
 	<div class="mt-8 flex w-full justify-center bg-gray-100 pt-4 font-sans">
 		<div class="mx-8 w-full max-w-3xl">

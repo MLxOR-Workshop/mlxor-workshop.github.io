@@ -1,5 +1,6 @@
 <script>
-	import papersData from '$lib/papers.json';
+	// import papersData from '$lib/papers.json';
+	import papersData from '$lib/mlor_accepted_papers.json';
 	const papers = papersData.notes;
 </script>
 

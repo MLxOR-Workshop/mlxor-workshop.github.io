@@ -25,8 +25,7 @@ Submissions should be made via OpenReview:<br>
 
 * Submission Deadline: September 5, 2025 (Anywhere on Earth)
 * Author Notification: September 22, 2025
-<!-- * Camera Ready Deadline: July 7, 2025 (Anywhere on Earth) -->
-* Workshop Date: December 6 or 7, 2025
+* Workshop Date: December 6, 2025
 
 
 

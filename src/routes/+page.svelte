@@ -27,7 +27,7 @@ Uncertainty-Aware Decision-Making</title>
 			</div>
 			<div class="inline-block text-4xl"><strong>ML×OR Workshop:</strong><br>Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making</div>
 
-			<div class="mt-8 flex flex-wrap items-center gap-2 text-sm">
+			<!-- <div class="mt-8 flex flex-wrap items-center gap-2 text-sm">
 				<div class="font-mono text-sm text-gray-500 mr-2">
 					Supported by
 				</div>
@@ -55,13 +55,13 @@ Uncertainty-Aware Decision-Making</title>
 					Columbia University
 				</a>
 
-			</div>
-			<!-- <div class="mt-8 flex items-center space-x-2">
+			</div> -->
+			<div class="mt-8 flex items-center space-x-2">
 				<div class="font-mono text-sm text-gray-500">Supported by</div>
 				<a href="https://connect.informs.org/aps/home" target="_blank" rel="noreferrer">
 					INFORMS Applied Probability Society
 				</a>
-			</div> -->
+			</div>
 			<div class="text-md mt-8 text-gray-800">December 6, 2025</div>
 			<div class="mt-2 text-sm text-gray-500">Upper Level Room 26AB</div>
 			<div class="text-sm text-gray-500">San Diego Convention Center</div>
@@ -83,9 +83,11 @@ Uncertainty-Aware Decision-Making</title>
 				<div class="mx-2 text-gray-400">/</div>
 				<!-- <NavLink href="#program_committee">PC Members</NavLink>
 				<div class="mx-2 text-gray-400">/</div> -->
-				<NavLink href="#call">Call for Papers</NavLink>
+				<NavLink href="#call">CfP</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
 				<NavLink href="#papers">Accepted Papers</NavLink>
+				<div class="mx-2 text-gray-400">/</div>
+				<NavLink href="#sponsors">Sponsors</NavLink>
 			</div>
 		</div>
 	</div>
@@ -97,7 +99,275 @@ Uncertainty-Aware Decision-Making</title>
 	<Block padding="py-8" class="md:text-justify">
 		<Intro />
 	</Block>
+
 <Block>
+  <h1 class="mb-6 text-2xl font-bold" id="schedule">Schedule</h1>
+  <div class="mb-6 text-sm">
+    <p><strong>Location:</strong> Upper Level Room 26AB, San Diego Convention Center</p>
+  </div>
+  <div>
+    <table class="w-full border-collapse border border-gray-300 text-sm">
+      <thead>
+        <tr class="bg-gray-100">
+          <th class="border border-gray-300 px-4 py-2 text-left whitespace-nowrap">Time</th>
+          <th class="w-full border border-gray-300 px-4 py-2 text-left">Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:00 - 8:20</td>
+          <td class="w-full border border-gray-300 px-4 py-2">Morning Coffee</td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:20 - 8:30</td>
+          <td class="w-full border border-gray-300 px-4 py-2">Introduction and Opening Remark</td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 - 9:00</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Keynote Talk:</strong>
+            <a
+              href="https://neurips.cc/virtual/2025/loc/san-diego/136366"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Can Large Language Models Make Decisions? Mathematical Formulations and Open Problems
+            </a>
+            <br />Speaker: R. Srikant (UIUC)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:30</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Spotlight Presentations</strong>
+            <br />1.
+            <a
+              href="https://openreview.net/forum?id=IC0Qo09FxF"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              The Oversight Game: Learning AI Control &amp; Corrigibility in Markov Games
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; William Overman, Mohsen Bayati
+            <br />2.
+            <a
+              href="https://openreview.net/forum?id=FLD5JWpR67"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Neural Decision Rule for Constrained Contextual Stochastic Optimization
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Zhangyi Liu, Zhongling Xu, Feng Liu, Rui Gao, Shuang Li
+            <br />3.
+            <a
+              href="https://openreview.net/forum?id=ToUWDGP0st"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Accelerating Diffusion via Compressed Sensing: Applications to Imaging and Finance
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Zhengyi Guo, Jiatu Li, Wenpin Tang, David Yao
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 09:45</td>
+          <td class="w-full border border-gray-300 px-4 py-2">Coffee Break (and Poster Setup)</td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">09:45 - 10:30</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Poster Session 1</strong> (Paper ID: 1-71)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 - 11:15</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>MLxOR Theory-Geared Panel:</strong> Peter Glynn (Stanford), Daniel Russo (Columbia), Masashi Sugiyama (U.of Tokyo, RIKEN), Renyuan Xu (NYU)
+            <br />Moderator: Assaf Zeevi (Columbia)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:15 - 12:25</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Spotlight Presentations</strong>
+            <br />4.
+            <a
+              href="https://openreview.net/forum?id=xufNFlDoKj"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Achieving O(1/N) Optimality Gap in Weakly-Coupled Markov Decision Processes through Gaussian Approximation
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Chen Yan, Weina Wang, Lei Ying
+            <br />5.
+            <a
+              href="https://openreview.net/forum?id=v7YPtir432"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Fairness Is More Than Algorithms: Racial Disparities in Time-to-Recidivism
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Jessy Xinyi Han, Kristjan Greenewald, Devavrat Shah
+            <br />6.
+            <a
+              href="https://openreview.net/forum?id=zxaMZHF1JW"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Human-Centric Perishable Inventory Management with AI-Assistance
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Yu Nu, Meng Qi, Karan Girotra, Elena Belavina
+            <br />7.
+            <a
+              href="https://openreview.net/forum?id=XMZgZfBTwv"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Ensuring Fairness in Priority-Based Admissions with Uncertain Scores
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Zhiqiang Zhang, Pengyi Shi, Amy R. Ward
+            <br />8.
+            <a
+              href="https://openreview.net/forum?id=HUkPaXsB3s"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Scalable First-order Method for Certifying Optimal k-Sparse GLMs
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Jiachang Liu, Soroosh Shafiee, Andrea Lodi
+            <br />9.
+            <a
+              href="https://openreview.net/forum?id=CTGNVLAqgQ"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Model-Free Assessment of Simulator Fidelity via Quantile Curves
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Yu-Shiou Willy Lin, Garud Iyengar, Kaizheng Wang
+            <br />10.
+            <a
+              href="https://openreview.net/forum?id=tQgfqyT6If"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Autoregressive Learning under Joint KL Analysis: Horizon-Free Approximation and Computational-Statistical Tradeoffs
+            </a>,
+            <br />&nbsp;&nbsp;&nbsp; Yunbei Xu, Yuzhe Yuan, Ruohan Zhan
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:25 - 12:55</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Keynote Talk:</strong>
+            <a
+              href="https://neurips.cc/virtual/2025/loc/san-diego/136382"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              The AI-XR Scientist that Sees and Works with Humans
+            </a>
+            <br />Speaker: Mengdi Wang (Princeton)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:55 - 13:25</td>
+          <td class="w-full border border-gray-300 px-4 py-2">Lunch Break (and Poster Setup)</td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:25 - 14:10</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Poster Session 2</strong> (Paper ID: 72-161)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:10 - 14:40</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Keynote Talk:</strong>
+            <a
+              href="https://neurips.cc/virtual/2025/loc/san-diego/136385"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              Learning What to Optimize: ML Methods for Accessible Operations Research
+            </a>
+            <br />Speaker: Peter Frazier (Cornell)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:40 - 15:10</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Keynote Talk:</strong>
+            <a
+              href="https://neurips.cc/virtual/2025/loc/san-diego/136386"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline hover:bg-blue-50 rounded-sm px-0.5"
+            >
+              OR and ML in Amazon’s Middle Mile Freight Capacity Marketplace
+            </a>
+            <br />Speaker: Phil Kaminsky (Amazon)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:10 - 15:25</td>
+          <td class="w-full border border-gray-300 px-4 py-2">Coffee Break (and Poster Setup)</td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:25 - 16:10</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>Poster Session 3</strong> (Paper ID: 162-245)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:10 - 16:55</td>
+          <td class="w-full border border-gray-300 px-4 py-2">
+            <strong>ML×OR Industry-Geared Panel:</strong> Hongseok Namkoong (Columbia), Sanjay Shakkottai (UT Austin), Dawn Woodard (LinkedIn), Kuang Xu (Stanford)
+            <br />Moderator: Jose Blanchet (Stanford)
+          </td>
+        </tr>
+
+        <tr class="odd:bg-white even:bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:55 - 17:00</td>
+          <td class="w-full border border-gray-300 px-4 py-2">Closing Remark</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="mt-4 text-sm text-gray-600 italic">
+    <p>All times are in Pacific Time (PT).</p>
+  </div>
+</Block>
+
+
+<!-- <Block>
   <h1 class="mb-6 text-2xl font-bold" id="schedule">Schedule</h1>
   <div class="mb-6 text-sm">
     <p><strong>Location:</strong> Upper Level Room 26AB, San Diego Convention Center</p>
@@ -361,128 +631,8 @@ Uncertainty-Aware Decision-Making</title>
   <div class="mt-4 text-sm text-gray-600 italic">
     <p>All times are in Pacific Time (PT).</p>
   </div>
-</Block>
-	
-	<!-- <Block>
-		<h1 class="mb-6 text-2xl font-bold" id="schedule">Schedule</h1>
-		<div class="mb-6 text-sm">
-			<p><strong>Location:</strong> Upper Level Room 26AB, San Diego Convention Center</p>
-		</div>
-		<div>
-			<table class="w-full border-collapse border border-gray-300 text-sm">
-				<thead>
-					<tr class="bg-gray-100">
-						<th class="border border-gray-300 px-4 py-2 text-left whitespace-nowrap">Time</th>
-						<th class="w-full border border-gray-300 px-4 py-2 text-left">Event</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:00 - 8:20</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Morning Coffee</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:20 - 8:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Introduction and Opening Remark</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 - 9:00</td>
-						 <td class="w-full border border-gray-300 px-4 py-2">
-							<strong>Invited Talk:</strong>
-							<a
-							href="https://neurips.cc/virtual/2025/loc/san-diego/136366"
-							target="_blank"
-							rel="noopener noreferrer"
-							>
-							Can Large Language Models Make Decisions? Mathematical Formulations and Open Problems
-							</a>
-							<br/>Speaker: R. Srikant (UIUC)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Spotlight Presentations
-							<br/>1. The Oversight Game: Learning AI Control & Corrigibility in Markov Games,
-							<br/>&nbsp;&nbsp; William Overman, Mohsen Bayati
-							<br/>2. Neural Decision Rule for Constrained Contextual Stochastic Optimization,
-							<br/>&nbsp;&nbsp; Zhangyi Liu, Zhongling Xu, Feng Liu, Rui Gao, Shuang Li
-							<br/>3. Accelerating Diffusion via Compressed Sensing: Applications to Imaging and Finance,
-							Zhengyi Guo, Jiatu Li, Wenpin Tang, David Yao
-						</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 09:45</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break (and Poster Setup)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">09:45 - 10:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 1 (Paper ID: 1-71)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 - 11:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2">MLxOR Theory-Geared Panel: Peter Glynn (Stanford), Daniel Russo (Columbia), Masashi Sugiyama (U.of Tokyo, RIKEN), Renyuan Xu (NYU)
-							<br/>Moderator: Assaf Zeevi (Columbia)
-						</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:15 - 12:25</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Spotlight Presentations
-							<br/>1. Achieving O(1/N) Optimality Gap in Weakly-Coupled Markov Decision Processes through Gaussian Approximation
-							<br/>2. Fairness Is More Than Algorithms: Racial Disparities in Time-to-Recidivism
-							<br/>3. Human-Centric Perishable Inventory Management with AI-Assistance
-							<br/>4. Ensuring Fairness in Priority-Based Admissions with Uncertain Scores
-							<br/>5. Scalable First-order Method for Certifying Optimal k-Sparse GLMs
-							<br/>6. Model-Free Assessment of Simulator Fidelity via Quantile Curves
-							<br/>7. Autoregressive Learning under Joint KL Analysis: Horizon-Free Approximation and Computational-Statistical Tradeoffs
-						</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:25 - 12:55</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Keynote Talk: The AI-XR Scientist that Sees and Works with Humans
-							<br/>Speaker: Mengdi Wang (Princeton)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:55 - 13:25</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Lunch Break (and Poster Setup)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:25 - 14:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 2 (Paper ID: 72-161)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:10 - 14:40</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Keynote Talk: Learning What to Optimize: ML Methods for Accessible Operations Research
-							<br/>Speaker: Peter Frazier (Cornell)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:40 - 15:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Keynote Talk: OR and ML in Amazon’s Middle Mile Freight Capacity Marketplace
-							<br/>Speaker: Phil Kaminsky (Amazon)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:10 - 15:25</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break (and Poster Setup)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:25 - 16:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 3 (Paper ID: 162-245)</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:10 - 16:55</td>
-						<td class="w-full border border-gray-300 px-4 py-2">ML×OR Industry-Geared Panel: Hongseok Namkoong (Columbia), Sanjay Shakkottai (UT Austin), Dawn Woodard (LinkedIn), Kuang Xu (Stanford)
-						<br/>Moderator: Jose Blanchet (Stanford)
-						</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:55 - 17:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Closing Remark</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-		<div class="mt-4 text-sm text-gray-600 italic">
-			<p>All times are in Pacific Time (PT).</p>
-		</div>
-	</Block> -->
+</Block> -->
+
 	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="speakers">Speakers & Panelists</h1>
 	</Block>
@@ -656,9 +806,50 @@ Uncertainty-Aware Decision-Making</title>
 			<Call />
 		</div>
 	</Block>
+
 	<Block>
 		<h1 class="mb-4 text-2xl font-bold" id="papers">Accepted Papers</h1>
 		<PaperList />
+	</Block>
+
+	<Block padding="py-8">
+	<h1 class="mb-4 text-2xl font-bold" id="sponsors">Sponsors</h1>
+	<div class="text-base">
+		We are grateful for the sponsorships from
+		<a
+		href="https://connect.informs.org/aps/home"
+		target="_blank"
+		rel="noreferrer"
+		class="underline hover:bg-blue-50 rounded-sm px-0.5"
+		>
+		INFORMS Applied Probability Society
+		</a>,
+		<a
+		href="https://connect.informs.org/simulation/home"
+		target="_blank"
+		rel="noreferrer"
+		class="underline hover:bg-blue-50 rounded-sm px-0.5"
+		>
+		INFORMS Simulation Society
+		</a>,
+		<a
+		href="https://galux.co.kr/"
+		target="_blank"
+		rel="noreferrer"
+		class="underline hover:bg-blue-50 rounded-sm px-0.5"
+		>
+		Galux
+		</a>,
+		and
+		<a
+		href="https://www.columbia.edu/"
+		target="_blank"
+		rel="noreferrer"
+		class="underline hover:bg-blue-50 rounded-sm px-0.5"
+		>
+		Columbia University
+		</a>.
+	</div>
 	</Block>
 
 	<div class="mt-8 flex w-full justify-center bg-gray-100 pt-4 font-sans">

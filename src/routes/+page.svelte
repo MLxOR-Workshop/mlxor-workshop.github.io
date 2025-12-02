@@ -850,6 +850,29 @@ Uncertainty-Aware Decision-Making</title>
 		Columbia University
 		</a>.
 	</div>
+
+	<div class="mt-6 grid grid-cols-2 gap-6 items-center justify-items-center">
+    <img
+      src="./imgs/INFORMS_APS.png"
+      alt="INFORMS Applied Probability Society"
+      class="h-16 object-contain"
+    />
+    <img
+      src="./imgs/IINFORMS_Simulation.png"
+      alt="INFORMS Simulation Society"
+      class="h-16 object-contain"
+    />
+    <img
+      src="./imgs/Galux-long.jpg"
+      alt="Galux"
+      class="h-16 object-contain"
+    />
+    <img
+      src="./imgs/Columbia.png"
+      alt="Columbia University"
+      class="h-16 object-contain"
+    />
+  </div>
 	</Block>
 
 	<div class="mt-8 flex w-full justify-center bg-gray-100 pt-4 font-sans">
